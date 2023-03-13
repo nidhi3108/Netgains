@@ -5,13 +5,15 @@
 }
 .sec_4_img_2{
     height: 650px;
+    width: 750px;
 }
 .sec_4_img_1{
     margin-left: 40px;
     margin-top: 50px;
     width: 300px;
 }
-.youtube{
-    width:"200px"
-    
+
+.logo1,.logo2,.logo3,.logo4,.logo5{
+    width: 150px;
+    height: 50px;
 }
